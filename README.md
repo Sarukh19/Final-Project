@@ -64,7 +64,5 @@ seaborn
 
 numpy
 
-License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project as long as proper credit is given.
 
