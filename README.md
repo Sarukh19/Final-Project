@@ -1,12 +1,11 @@
-Shoes Analysis Notebook
+# Shoes Analysis Notebook
 
-Overview
+### Overview
 
 This project provides an in-depth analysis of data related to shoes. The notebook includes data processing, visualization, and insights to better understand trends and patterns in the dataset.
 
-Content Summary
 
-Introduction
+### Introduction
 
 Overview of the project.
 
@@ -40,7 +39,7 @@ Future Work
 
 Suggestions for further analysis or extensions of this project.
 
-How to Use
+# How to Use
 
 Open the notebook file (shoes.ipynb) in Jupyter Notebook or any compatible environment.
 
@@ -48,21 +47,21 @@ Follow the cells in sequential order to reproduce the analysis.
 
 Ensure all dependencies (e.g., Python libraries) are installed before running the notebook.
 
-Requirements
+# Requirements
 
-Python 3.x
+### Python 3.x
 
-Jupyter Notebook
+### Jupyter Notebook
 
-Libraries:
+### Libraries:
 
-pandas
+### pandas
 
-matplotlib
+### matplotlib
 
-seaborn
+### seaborn
 
-numpy
+### numpy
 
 
 
