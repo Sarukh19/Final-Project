@@ -23,7 +23,7 @@ Visualizations and statistics to understand the data.
 
 Key trends and outliers highlighted.
 
-Data Visualization
+# Data Visualization
 
 Various plots and charts showcasing the data.
 
@@ -35,7 +35,7 @@ Key findings from the analysis.
 
 Recommendations based on the results.
 
-Future Work
+# Future Work
 
 Suggestions for further analysis or extensions of this project.
 
